@@ -290,12 +290,6 @@ Once the API server is running, you can interact with it using `curl` or any oth
 | `regexp`        | Used for regular expression-based parsing, particularly in natural language processing. |
 | `sync`          | Provides primitives for safe and efficient concurrent access to the in-memory data store. |
 
-## License
-License information for this project is not explicitly defined in the repository.
-
-## Author Info
-👤 **Samuel Tuoyo**
-*   Twitter: [@TuoyoS26091](https://x.com/TuoyoS26091)
 
 ## Badges
 [![Go Reference](https://pkg.go.dev/badge/github.com/samueltuoyo15/HNG-Stage-1.svg)](https://pkg.go.dev/github.com/samueltuoyo15/HNG-Stage-1)
